@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prodigy9999
+
 - 👀 I’m interested in Home Assistant, Solax, Lambda Heatpump, Grafana
 - 📫 How to reach me prodigy999@wolke7.net
 
